@@ -1,4 +1,12 @@
-#this is a test
+| Line | Step | Temp | Time |  
+| --- | --- | --- | --- |  
+| 1 | Initial denaturation | 94°C | 00:03:00 |  
+| 2 | Denaturation | 94°C | 00:00:45 |  
+| 3 | Annealing | 52°C | 00:01:00 |  
+| 4 | Extension | 72°C | 00:01:30 |  
+| 5 | Cycle | GOTO 2 REP 35 |  
+| 6 | Final extension | 72°C | 00:10:00 |  
+| 7 | Hold | HOLD 4°C |#this is a test
 <html>
   <head>
       <title> This is a test </title>
