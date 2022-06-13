@@ -40,6 +40,8 @@ gel ran 15 min @ 70 + 1 hour @ 120, Transfer occurred at 70V for 1.5 hours. Imag
 ![Results from coomassie](/images/072921-SHSerum&E6E7-Reducinggel-Labelled.tif)
 
 ![Results from WB](/images/073021WBresults.jpg)
+
+<img src="073021WBresults.jpg" width="300" height="298">
 ---
 #### Notes
 
